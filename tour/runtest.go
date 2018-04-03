@@ -1,7 +1,9 @@
 package main
 
-import "Basic/basic"
+import "learnGo/tour/methods"
 
 func main() {
-	basic.TypeConversions()
+	// basic.NumericConstants()
+	methods.ExerciseReader()
+
 }

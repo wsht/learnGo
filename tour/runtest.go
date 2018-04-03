@@ -1,9 +1,9 @@
 package main
 
-import "learnGo/tour/methods"
+import "learnGo/tour/concurrency"
 
 func main() {
 	// basic.NumericConstants()
-	methods.ExerciseReader()
+	concurrency.RnageAndClose()
 
 }

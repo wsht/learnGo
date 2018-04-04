@@ -4,6 +4,6 @@ import "learnGo/tour/concurrency"
 
 func main() {
 	// basic.NumericConstants()
-	concurrency.RnageAndClose()
+	concurrency.ExerciseWebCrawler()
 
 }

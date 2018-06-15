@@ -59,4 +59,5 @@ func BufferedChannels() {
 		fmt.Printf("%d out chan \n", i)
 		time.Sleep(100 * time.Millisecond)
 	}
+
 }
